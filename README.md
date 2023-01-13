@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...**
 
-- 📫 How to reach me **pierizvi@protonmail.com**
+- 📫 Reach out to me **pierizvi@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
