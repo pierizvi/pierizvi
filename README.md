@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity and more ...**
+- 💬 Ask me about **Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...**
 
 - 📫 How to reach me **pierizvi@protonmail.com**
 
