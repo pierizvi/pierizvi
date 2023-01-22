@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">A Open-Source Software Developer 👨🏻‍💻 From Vale of Kasheer 🏔</h3>
-<p><b>🔭 I’m currently working on Pielate<br><br>🌱 I’m currently learning Data Science and DevOps<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...<br><br>📫 Reach out to me pierizvi@protonmail.com <b></p>
+<p>*** 🔭 I’m currently working on Pielate<br><br>🌱 I’m currently learning Data Science and DevOps<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...<br><br>📫 Reach out to me pierizvi@protonmail.com ***</p>
 
 
 ## 🌐 Socials:
@@ -11,13 +11,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pierizvi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pierizvi&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierizvi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=pierizvi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pierizvi&icon=0&color=0)](https://visitcount.itsvg.in)
