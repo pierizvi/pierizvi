@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">A Open-Source Software Developer 👨🏻‍💻 From Vale of Kasheer 🏔</h3>
 
-<p align="left"> <a href="https://twitter.com/pierizvi" target="blank"><img src="https://img.shields.io/twitter/follow/pierizvi?logo=twitter&style=for-the-badge" alt="pierizvi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pierizvi" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="40" alt="pierizvi"/></a></p>
 
 - 🔭 I’m currently working on **Pielate**
 
