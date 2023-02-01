@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">A Open-Source Software Developer 👨🏻‍💻 From Vale of Kasheer 🏔</h3>
-<p>🔭 I’m currently working on Pielate<br><br>🌱 I’m currently learning Data Science and DevOps<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...<br><br>📫 Reach out to me <a href = "mailto:pierizvi@protonmail.com">Murtaza Rizvi</a> </p>
+<p>🔭 I’m currently working on Pielate<br><br>🌱 I’m currently learning Data Science and DevOps<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Python, Linux , Version Control , Application Programming Interfaces (API), Cybersecurity, Database, SQL-Injection and more ...<br><br>📫 Connect on  <a href = "mailto:pierizvi@protonmail.com"><b>Email</b></a> </p>
 
 
 ## 🌐 Socials:
