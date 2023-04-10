@@ -1,5 +1,5 @@
 <P align ="center"><small>Pierizvi~/Github$</small>  <h1 align="center"><B>Murtaza Rizvi</B></h1></P>
-<h3 align="center">AI/ML practitioner & Open-Source-Software Contributer From Kasheer 🏔</h3>
+<h3 align="center">AI/ML practitioner & Open-Source Contributer From Kasheer 🏔</h3>
 Connect on  <a href = "mailto:pierizvi@protonmail.com"><b>Email</b></a> </p>
 
 
