@@ -1,4 +1,4 @@
-<h1 align="center">Murtaza Rizv Here!</h1>
+<h1 align="center"><I>Murtaza Rizvi Here!</I></h1>
 <h3 align="center">AI/ML practitioner & Open-Source-Software Contributer From Kasheer 🏔</h3>
 Connect on  <a href = "mailto:pierizvi@protonmail.com"><b>Email</b></a> </p>
 
