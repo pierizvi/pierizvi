@@ -1,4 +1,4 @@
-<P align ="center"><small>~/Github$ Pierizvi<small>Console</small></small>  <h1 align="center"><B>Murtaza Rizvi</B></h1></P>
+<P align ="center"><small>~/Github$ Pierizvi <b>console</b></small>  <h1 align="center"><B>Murtaza Rizvi</B></h1></P>
 <h3 align="center">AI/ML practitioner & Open-Source Contributer From Kasheer 🏔</h3>
 Connect on  <a href = "mailto:pierizvi@protonmail.com"><b>Email</b></a> </p>
 
