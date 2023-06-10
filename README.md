@@ -1,6 +1,6 @@
 <P align ="center"><small>~/<b>Github</b>$ Pierizvi <b>console</b></small>  <h1 align="center"><B>Murtaza Rizvi</B></h1></P>
 <h3 align="center">Open-Source AI/ML practitioner & Core Contributer From Kasheer 🏔</h3>
-Connect on  <a href = "mailto:pierizvi@protonmail.com"><b>Email</b></a> </p>
+<a href = "mailto:pierizvi@protonmail.com"><b>Connect</b></a> </p>
 
 
 ## 🌐 Socials:
